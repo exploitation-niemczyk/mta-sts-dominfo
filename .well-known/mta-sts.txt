@@ -1,6 +1,6 @@
 version: STSv1
 mode: testing
-mx: mail.dominfo.fr
+mx: mail.niemczyk.fr
 mx: mx1.mail.ovh.net
 mx: mx2.mail.ovh.net
 mx: mx3.mail.ovh.net
