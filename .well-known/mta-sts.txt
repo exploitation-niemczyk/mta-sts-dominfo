@@ -1,7 +1,4 @@
 version: STSv1
 mode: testing
 mx: mail.niemczyk.fr
-mx: mx1.mail.ovh.net
-mx: mx2.mail.ovh.net
-mx: mx3.mail.ovh.net
 max_age: 604800
